@@ -1,0 +1,380 @@
+body{
+    width: 100%;
+    overflow-x:hidden ;
+}
+.icon-menu{
+    gap: 30px;
+    flex-direction: row;
+    display: flex;
+    margin-left:450px ;
+}
+.btn>button{
+    border: none    ;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: aquamarine;
+}
+.btn{
+    margin-left: 30px
+
+    }
+    .navbar{
+        background-color: white !important;
+    }
+    .one{
+   font-family: sans-serif;
+   font-weight: 900;
+    margin-right: 700px;   
+    }
+    .one>p,h1{
+margin-bottom: 100px;
+font-weight: 1.735rem;
+}
+.one>button,.two>button{
+    color: white;
+    background-color: aquamarine;
+    border: none;
+    padding: 18px;
+    border-radius: 25px;
+}
+.btn1{
+    margin-bottom: 50px;
+}
+.two{
+    font-family: sans-serif;
+    font-weight: 800;
+    margin-bottom: 200px;
+}
+.btn3{
+    margin-right: 700px;
+}
+.image>img{
+    width: 100%;
+    /* height: 150px; */
+    object-fit: cover;
+    border-radius: 10px;
+    vertical-align: middle;
+    border-style: none;
+}
+.mt-5>h1{
+    margin-top: 20px;
+}
+.display-7{
+font-family: sans-serif;
+font-size: larger;
+font-weight: normal;
+margin-top: 30px;
+}
+.card-img{
+     background-color: aquamarine;
+}
+.block_inner{
+    margin-right: 220px;
+    margin-left: 220px;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    padding: 65px 20px 75px;
+}
+.cid-rNOUFPooqZ{
+    background-image: url(../../../photos/bakery12-3-1200x800.jpg);
+    padding-top:6rem ;
+    padding-bottom: 6rem;
+}
+section{
+
+    background-position: 50% 50%;
+background-repeat:no-repeat ;
+background-size: cover;
+overflow: hidden;
+position: relative;
+word-wrap: break-word;
+background-color: #eeeeee;
+}
+.mbr-overlay{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 0;
+    position: absolute;
+    pointer-events:none ;
+}
+.col-xl-10,.col-lg-8,.col-md-10{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.fa-cake-candles{
+    font-size: 52px;
+    color: #ffffff;
+}
+.title{
+    margin-top: 25px;
+    margin-bottom: 0;
+    color: #ffffff;
+    font-family: sans-serif;
+    line-height: 52px;
+    font-size: 2.625rem;
+}
+.para{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 26px;
+}
+.bt{
+    font-size: 1,125rem;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+background-color: transparent;
+}
+.birth{
+    padding: 50px;
+}
+.day{
+    color: pink;
+}
+
+.one{
+    padding-bottom:50px ;
+}
+
+.content8{
+    background-image: url(../../../photos/bakery24-1-1200x800.jpg);
+    padding-top:6rem ;
+    padding-bottom: 6rem;
+}
+.content8>.user_text{
+    margin: 35px 0 45px;
+    text-align: center;
+    color:black;
+} 
+.content8>.user_image{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: auto;
+}
+.content8>.user_name{
+    margin-top: 20px;
+    margin-bottom: 0;
+    color:black;  
+}
+.mbr-bold{
+    font-weight: 700;
+}
+.content8>.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.submain{
+    display: flex;
+}
+.active{
+    display: flex;
+}
+.submain>h1{
+    margin-top: 50px;
+    display: flex;
+    font-size: 45px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+}
+.submain>p,h2{
+    text-align: center;
+    color: black;
+    font-family: sans-serif
+}
+.pudding-picture>img{
+    margin-left: 600px;
+    border-radius: 360px;
+    width: 100px;
+    height: 100px;
+}
+.say{
+    width: 100vw;
+    background-size: cover;
+    height: 100vh;
+    background-image: url(photos/bakery26-1200x800.jpg);
+}
+.background{
+    background-color: #faadbacb;
+    width: 100vw;
+     height: 100vh; 
+    opacity: 0.9;
+}
+.client{
+    /* height: 200px; */
+    /* padding-top: 30px; */
+}
+.clientpicture>img{
+    border-radius: 360px;
+    width: 100px;
+    height: 100px;
+}
+.clientreview{
+    width: 250px;
+    margin-left: 20px;
+}
+.clientreview>p{
+    color: white;
+    font-family: sans-serif;
+}
+.special{
+    background-color: white;
+}
+.table{
+    margin-left: 150px;
+}
+.content__block{
+    padding: 32px;
+    background-color:#f3f2f4 ;
+    border-radius: 6px;
+    max-width: 270px;
+    height: 100%;
+}
+.title_text{
+    margin-bottom: 0;
+    font-weight: 400;
+    color: #4b4342;
+}
+.text{
+    color: #5fcac7;
+    font-size: larger;
+    margin-top:10px ;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+.news{
+    background-image: url(photos/bakery3-2-1200x800.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+    margin-top: 200px;
+}
+.back{
+    background-color: #6c6665;
+    width: 100%;
+    height: 70vh;
+    opacity: 0.7;
+}
+#news{
+    margin-left: -100px;
+    color:white;
+    font-family: sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 0;
+    font-weight: 700;
+    word-spacing: 3px;
+    width: 1500px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.outer{
+    align-items: center;
+    /* height: 50px; */
+}
+.inner{
+    width: 35%;
+    height: 200px;
+}
+.inner>div>input{
+    color: #ffffff;
+width: 300px;
+height: 60px;
+border-radius: 100px;
+font-size: 20px;
+border: 2px solid #ebeaed;
+opacity: 4;
+background-color:transparent !important ;
+font-weight: 700;
+padding-left: 20px;
+margin-right: 20px;
+}
+.upper>button{
+    background-color: #3db9b5;
+    width: 180px;
+    height: 60px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.follow{
+    color: white;
+    align-items: center;
+    /* height: 100px; */
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+}
+.foot>i{
+    margin-left: 15px;
+    border: 1px solid white;
+    padding:15px ;
+    border-radius: 360px;
+}
+.footer{
+   width: 100%;
+    background-color: #2a2a2a;
+    padding: 50px;
+}
+.order{
+    margin-left:100px;
+}
+.foot-menu{
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
+.menu-items{
+    font-family: sans-serif;
+    font-size: larger;
+    margin: 0.15px;
+    display: inline-block;
+    transition: all .25s;
+    line-height: 40px;
+    margin-bottom: 0;
+    color: #ffffff;
+}
+.privacy>p{
+    font-family: sans-serif;
+    font-size: larger;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
